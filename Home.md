@@ -2,9 +2,9 @@
 
 Ta stran služi kot osrednje mesto za dokumentacijo povezano z lastnim jezikom. Naslednje povezave vas bodo vodile do želenih delov dokumentacije
 
-<ul> 
-<li>Projektne specifikacije</li>
-<li>Navodila za namestitev</li>
-<li>Dokumentacija izvedenih lastnosti</li>
-<li>Primeri uporabe</li>
-</ul>
+
+* [Projektne specifikacije](https://github.com/RockSolidProject/CustomLanguage/wiki/Projektne-Specifikacije)
+* Navodila za namestitev
+* Dokumentacija izvedenih lastnosti
+* Primeri uporabe
+
