@@ -5,6 +5,6 @@ Ta stran služi kot osrednje mesto za dokumentacijo povezano z lastnim jezikom. 
 
 * [Projektne specifikacije](https://github.com/RockSolidProject/CustomLanguage/wiki/Projektne-Specifikacije)
 * [Navodila za namestitev](https://github.com/RockSolidProject/CustomLanguage/wiki/Projektne-Specifikacije)
-* [Dokumentacija izvedenih lastnosti]()
+* [Dokumentacija izvedenih lastnosti](https://github.com/RockSolidProject/CustomLanguage/wiki/Projektne-Specifikacije)
 * [Primeri uporabe](https://github.com/RockSolidProject/CustomLanguage/wiki/Primeri-Uporabe)
 
