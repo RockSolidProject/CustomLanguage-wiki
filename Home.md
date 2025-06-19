@@ -1,5 +1,8 @@
 # Dobrodošli v CustomLanguage Wiki
 
+Test
+![alt text](pictures/image.png)
+
 Ta stran služi kot osrednje mesto za dokumentacijo povezano z lastnim jezikom. Naslednje povezave vas bodo vodile do želenih delov dokumentacije
 
 
