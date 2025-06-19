@@ -33,11 +33,9 @@ Semantični analizator ima implementirano začetno listo funkcij, ki jih podpira
 **Način uporabe: ** V programu lahko sedaj kličemo nove implementirane funkcije kot so door, window, ...
 
 ***
-ROCK-158 - dodajanje AST dreves
-**Namen:** izpis dreves klicov funkcije
-**Način implementacije:**
-posebni razredi
-**Način uporabe:**
-TODO
+## ROCK-158 - dodajanje AST dreves
+**Namen:** izpis dreves klicov funkcije<br>
+**Način implementacije:** posebni razredi<br>
+**Način uporabe:** <i>Ni bilo dokončano</i>
 
 
