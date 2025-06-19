@@ -38,9 +38,14 @@
 ![pogojni stavki](https://github.com/user-attachments/assets/888eb0d7-052c-4c3e-8eb8-719db9f7ad2b)
 
 ## 2.3. for in while zanke
-* **kaj uporabnik želi narediti:** 
-* **koraki izvedbe:** 
-* **rezultat:** 
+* **kaj uporabnik želi narediti:** uporabnik želi da bi uporabljal zanke.
+* **koraki izvedbe:** zapis for in while zank.
+* **rezultat:** Boljše strukturiranje kode.
+  
+## 2.4. Funkcije in rekurzija
+* **kaj uporabnik želi narediti:** uporabnik želi uporabljati funkcije za lepše strukturiranje kode
+* **koraki izvedbe:** Zapis funkcije v obliki fun ime(argumenti_loceni_z_vejico) {telo}
+* **rezultat:** Boljše strukturiranje kode.
 
 
 
