@@ -45,8 +45,8 @@
 ## 2.4. Funkcije in rekurzija
 * **kaj uporabnik želi narediti:** uporabnik želi uporabljati funkcije za lepše strukturiranje kode
 * **koraki izvedbe:** Zapis funkcije v obliki fun ime(argumenti_loceni_z_vejico) {telo}
-* **rezultat:** Boljše strukturiranje kode.
-* ![rekurzija](./pictures/rekurzija.png)
+* **rezultat:** Boljše strukturiranje kode.<br>
+![rekurzija](./pictures/rekurzija.png)
 
 
 
